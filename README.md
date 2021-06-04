@@ -17,16 +17,21 @@ FEATURES:
 
 # SCREENSHOTS
 MAIN SCREEN:
-![Screenshot (9)](https://user-images.githubusercontent.com/37211676/58502148-97ec2a00-81a3-11e9-963e-674b9c3e05dc.png)
+![image](https://user-images.githubusercontent.com/53990974/120812953-16d28500-c56b-11eb-992e-2e06c58368bd.png)
 
-TAKING ATTENDANCE:
-![Screenshot (10)](https://user-images.githubusercontent.com/37211676/58502149-97ec2a00-81a3-11e9-9658-8968da396c2e.png)
 
-SHOWING ATTENDANCE TAKEN:
-![Screenshot (11)](https://user-images.githubusercontent.com/37211676/58502151-9884c080-81a3-11e9-9a90-fec29940ee5a.png)
+ADMIN MODULE:
+![image](https://user-images.githubusercontent.com/53990974/120813254-58633000-c56b-11eb-8669-a6e60f030ab4.png)
 
-HELP OPTION IN MENUBAR:
-![Screenshot (12)](https://user-images.githubusercontent.com/37211676/58502152-991d5700-81a3-11e9-861a-9115526010c2.png)
 
-CHANGE PASSWORD OPTION:
-![Screenshot (13)](https://user-images.githubusercontent.com/37211676/58502146-97539380-81a3-11e9-8536-0c68160ecc55.png)
+TRAINING MODULE:
+![image](https://user-images.githubusercontent.com/53990974/120813587-a7a96080-c56b-11eb-89ff-9cc955e9ac89.png)
+
+
+ATTENDANCE TAKEN:
+![image](https://user-images.githubusercontent.com/53990974/120813782-daebef80-c56b-11eb-84d5-262fc381beea.png)
+
+
+ATTENDANCE MARKED:
+![image](https://user-images.githubusercontent.com/53990974/120813920-feaf3580-c56b-11eb-86f7-e18a4bc0d962.png)
+
